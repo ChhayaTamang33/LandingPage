@@ -1,0 +1,22 @@
+{
+  "short_name": "byapar app",
+  "name": "Byapar App",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "byapar-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "byapar-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ],
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "description": "ERM for Nepal"
+}
